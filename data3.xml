@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook
+    xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+    xmlns:o="urn:schemas-microsoft-com:office:office"
+    xmlns:x="urn:schemas-microsoft-com:office:excel"
+    xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+    xmlns:html="http://www.w3.org/TR/REC-html40"
+    xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+    <Worksheet ss:Name="Sheet1">
+        <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="12" x:FullColumns="1" x:FullRows="1" ss:StyleID="s50" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="20.1"><Column ss:Index="1" ss:StyleID="s52" ss:AutoFitWidth="0" ss:Width="25.5"/><Column ss:Index="2" ss:StyleID="s53" ss:AutoFitWidth="0" ss:Width="78"/><Column ss:StyleID="s50" ss:AutoFitWidth="0" ss:Width="126"/><Column ss:StyleID="s53" ss:AutoFitWidth="0" ss:Width="93"/><Column ss:StyleID="s50" ss:AutoFitWidth="0" ss:Width="69.75"/><Column ss:StyleID="s50" ss:AutoFitWidth="0" ss:Width="126"/><Column ss:StyleID="s50" ss:AutoFitWidth="0" ss:Width="269.25"/><Column ss:Index="10" ss:StyleID="s50" ss:AutoFitWidth="0" ss:Width="63.75"/><Column ss:StyleID="s50" ss:AutoFitWidth="0" ss:Width="63"/>
+            <Row ss:StyleID="s51" ss:Height="33.75">
+                <Cell ss:StyleID="s62" ss:MergeAcross="5">
+                    <Data ss:Type="String">2016年7月研发部加班表</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="s55">
+                    <Data ss:Type="String">序号</Data>
+                </Cell>
+                <Cell ss:StyleID="s56">
+                    <Data ss:Type="String">加班日期</Data>
+                </Cell>
+                <Cell ss:StyleID="s57">
+                    <Data ss:Type="String">加班时间（24小时制）</Data>
+                </Cell>
+                <Cell ss:StyleID="s56">
+                    <Data ss:Type="String">加班时长（小时）</Data>
+                </Cell>
+                <Cell ss:StyleID="s57">
+                    <Data ss:Type="String">加班人</Data>
+                </Cell>
+                <Cell ss:StyleID="s57">
+                    <Data ss:Type="String">是否已补休（附补休日期）</Data>
+                </Cell>
+                <Cell ss:StyleID="s57">
+                    <Data ss:Type="String">
+                        备注</Data>
+                </Cell>
+                <Cell ss:Index="9" ss:StyleID="s61">
+                    <Data ss:Type="String">姓名</Data>
+                </Cell>
+                <Cell ss:StyleID="s61">
+                    <Data ss:Type="String">加班总时长</Data>
+                </Cell>
+                <Cell ss:StyleID="s61">
+                    <Data ss:Type="String">已补休时长</Data>
+                </Cell>
+                <Cell ss:StyleID="s61">
+                    <Data ss:Type="String">剩余时长</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="s52">
+                    <Data ss:Type="Number">1</Data>
+                </Cell>
+                <Cell ss:StyleID="s58">
+                    <Data ss:Type="Number">42698</Data>
+                </Cell>
+                <Cell ss:StyleID="s59">
+                    <Data ss:Type="String">18:00~20:00</Data>
+                </Cell>
+                <Cell ss:StyleID="s52">
+                    <Data ss:Type="Number">2</Data>
+                </Cell>
+                <Cell ss:StyleID="s53">
+                    <Data ss:Type="String">梁晓谊</Data>
+                </Cell><Cell ss:Index="7" ss:StyleID="s60"/>
+                <Cell ss:Index="9" ss:StyleID="s50">
+                    <Data ss:Type="String">黄凯</Data>
+                </Cell>
+                <Cell ss:Index="12" ss:StyleID="s50" ss:Formula="=RC[-2]-RC[-1]">
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+            <Row><Cell ss:Index="2" ss:StyleID="s58"/><Cell ss:Index="4" ss:StyleID="s52"/><Cell ss:StyleID="s53"/><Cell ss:Index="7" ss:StyleID="s60"/>
+                <Cell ss:Index="9" ss:StyleID="s50">
+                    <Data ss:Type="String">潘华京</Data>
+                </Cell>
+                <Cell ss:Index="12" ss:StyleID="s50" ss:Formula="=RC[-2]-RC[-1]">
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+            <Row><Cell ss:Index="2" ss:StyleID="s58"/><Cell ss:Index="4" ss:StyleID="s52"/>
+                <Cell ss:Index="9" ss:StyleID="s50">
+                    <Data ss:Type="String">梁晓谊</Data>
+                </Cell>
+                <Cell ss:Index="12" ss:StyleID="s50" ss:Formula="=RC[-2]-RC[-1]">
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+            <Row><Cell ss:Index="2" ss:StyleID="s58"/><Cell ss:Index="4" ss:StyleID="s52"/>
+                <Cell ss:Index="9" ss:StyleID="s50">
+                    <Data ss:Type="String">李健</Data>
+                </Cell>
+                <Cell ss:Index="12" ss:StyleID="s50" ss:Formula="=RC[-2]-RC[-1]">
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+            <Row><Cell ss:Index="2" ss:StyleID="s58"/><Cell ss:StyleID="s52"/><Cell ss:StyleID="s52"/>
+                <Cell ss:Index="9" ss:StyleID="s50">
+                    <Data ss:Type="String">陶玉银</Data>
+                </Cell>
+                <Cell ss:Index="12" ss:StyleID="s50" ss:Formula="=RC[-2]-RC[-1]">
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+            <Row><Cell ss:Index="2" ss:StyleID="s58"/><Cell ss:StyleID="s52"/><Cell ss:StyleID="s52"/>
+                <Cell ss:Index="9" ss:StyleID="s50">
+                    <Data ss:Type="String">盘明财</Data>
+                </Cell>
+                <Cell ss:Index="12" ss:StyleID="s50" ss:Formula="=RC[-2]-RC[-1]">
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+            <Row><Cell ss:Index="2" ss:StyleID="s58"/><Cell ss:StyleID="s59"/><Cell ss:StyleID="s52"/>
+                <Cell ss:Index="9" ss:StyleID="s50">
+                    <Data ss:Type="String">倪祖成</Data>
+                </Cell>
+                <Cell ss:Index="12" ss:StyleID="s50" ss:Formula="=RC[-2]-RC[-1]">
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:Index="9" ss:StyleID="s50">
+                    <Data ss:Type="String">李俊梅</Data>
+                </Cell>
+                <Cell ss:Index="12" ss:StyleID="s50" ss:Formula="=RC[-2]-RC[-1]">
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:Index="9" ss:StyleID="s50">
+                    <Data ss:Type="String">杨智渊</Data>
+                </Cell>
+                <Cell ss:Index="12" ss:StyleID="s50" ss:Formula="=RC[-2]-RC[-1]">
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:Index="9" ss:StyleID="s50">
+                    <Data ss:Type="String">吴水清</Data>
+                </Cell>
+                <Cell ss:Index="12" ss:StyleID="s50" ss:Formula="=RC[-2]-RC[-1]">
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+        </Table>
+        <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+            <PageSetup><Header x:Margin="0.3"/><Footer x:Margin="0.3"/><PageMargins x:Left="0.699305555555556" x:Right="0.699305555555556" x:Top="0.75" x:Bottom="0.75"/></PageSetup>
+            <TopRowVisible>0</TopRowVisible>
+            <LeftColumnVisible>0</LeftColumnVisible>
+            <PageBreakZoom>100</PageBreakZoom><FreezePanes/><FrozenNoSplit/>
+            <SplitHorizontal>2</SplitHorizontal>
+            <TopRowBottomPane>2</TopRowBottomPane>
+            <ActivePane>2</ActivePane>
+            <Panes>
+                <Pane>
+                    <Number>3</Number>
+                </Pane>
+                <Pane>
+                    <Number>2</Number>
+                    <ActiveRow>2</ActiveRow>
+                    <ActiveCol>8</ActiveCol>
+                    <RangeSelection>R3C9:R12C9</RangeSelection>
+                </Pane>
+            </Panes>
+            <ProtectObjects>False</ProtectObjects>
+            <ProtectScenarios>False</ProtectScenarios>
+        </WorksheetOptions>
+    </Worksheet>
+    <Worksheet ss:Name="Sheet2">
+        <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="11" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="13.5">
+            <Row>
+                <Cell>
+                    <Data ss:Type="String">姓名</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="14.25">
+                <Cell ss:StyleID="s50">
+                    <Data ss:Type="String">黄凯</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="14.25">
+                <Cell ss:StyleID="s50">
+                    <Data ss:Type="String">潘华京</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="14.25">
+                <Cell ss:StyleID="s50">
+                    <Data ss:Type="String">外星人</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="14.25">
+                <Cell ss:StyleID="s50">
+                    <Data ss:Type="String">李健</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="14.25">
+                <Cell ss:StyleID="s50">
+                    <Data ss:Type="String">陶玉银</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="14.25">
+                <Cell ss:StyleID="s50">
+                    <Data ss:Type="String">盘明财</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="14.25">
+                <Cell ss:StyleID="s50">
+                    <Data ss:Type="String">倪祖成</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="14.25">
+                <Cell ss:StyleID="s50">
+                    <Data ss:Type="String">李俊梅</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="14.25">
+                <Cell ss:StyleID="s50">
+                    <Data ss:Type="String">杨智渊</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="14.25">
+                <Cell ss:StyleID="s50">
+                    <Data ss:Type="String">吴水清</Data>
+                </Cell>
+            </Row>
+        </Table>
+        <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+            <PageSetup><Header x:Margin="0.511805555555556"/><Footer x:Margin="0.511805555555556"/></PageSetup><Selected/>
+            <TopRowVisible>0</TopRowVisible>
+            <LeftColumnVisible>0</LeftColumnVisible>
+            <PageBreakZoom>100</PageBreakZoom>
+            <Panes>
+                <Pane>
+                    <Number>3</Number>
+                    <ActiveRow>3</ActiveRow>
+                    <ActiveCol>0</ActiveCol>
+                    <RangeSelection>R4C1</RangeSelection>
+                </Pane>
+            </Panes>
+            <ProtectObjects>False</ProtectObjects>
+            <ProtectScenarios>False</ProtectScenarios>
+        </WorksheetOptions>
+    </Worksheet>
+</Workbook>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<script src="ajax.js"></script>
+<script src="loadXML.js"></script>
+<script>
+//注意：因为用到ajax，所以需要搭建服务器
+loadXML('data3.xml',function(data){
+    //第一个表格的姓名列表
+    var cell = data[0].getData('姓名');//定位到内容为「姓名」的单元格
+    var result = data[0].getColumn(cell.column,cell.row);//「姓名」单元格一下的内容，即为姓名列表
+
+    //第二个表格的姓名列表
+    cell = data[1].getData('姓名');//同表格1
+    var result2 = data[1].getColumn(cell.column,cell.row);//同表格1
+
+    //对比两个列表，找出不同的那个名字的坐标
+    result.forEach(function(item,index){
+        if(item.data!==result2[index].data){
+            console.log(getPosition(item));//在控制台打印坐标
+        }
+    });
+});
+</script>
